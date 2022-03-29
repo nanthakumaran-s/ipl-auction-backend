@@ -56,3 +56,5 @@ mongoose
   .catch((err) => {
     console.error(err);
   });
+
+// mongodb+srv://ipl:12345@cluster0.wooi6.mongodb.net/ipl?retryWrites=true&w=majority
